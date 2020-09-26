@@ -16,7 +16,7 @@ const UserSchema = new Schema({
     thoughts: [
         {
             type: Schema.Types.ObjectId,
-            default: () => new Types.ObjectId(),
+            // default: () => new Types.ObjectId(),
             ref: 'Thought'
         }
     ],
