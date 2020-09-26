@@ -8,4 +8,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/my-thoughts', {
 });
 
 
-module.exports = mongoose.connection
+mongoose.set('useCreateIndex', true);
+mongoose.set('debug', true);
+
+module.exports = mongoose.connection;
