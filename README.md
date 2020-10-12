@@ -52,6 +52,6 @@
      GitHub username: heatherzen
 [Check out Heather's GitHub, click here.](https://www.github.com/heatherzen)
 
-[Screencastify Walkthrough #1](https://drive.google.com/file/d/11cdXts68XEl_IfZuW7Z1Fk_xFL7QLzvb/view)
-[Screencastify Walkthrough #2](https://drive.google.com/file/d/1f-X0_Bxun6waAlF1h25s0GG_ogAwztvk/view)
-[Screencastify Walkthrough #3](https://drive.google.com/file/d/1LXpKbrBJUmShbJ4mlL6q8u-bKpPN_18e/view)
+[Screencastify Walkthrough #1](https://drive.google.com/file/d/133EXbbRQSNJ5FYOnuuGtb5RQKvOKApnm/view)
+[Screencastify Walkthrough #2](https://drive.google.com/file/d/11BrGjIS-ulQc1nufNcbs7U1d9oXR0PzD/view)
+[Screencastify Walkthrough #3](https://drive.google.com/file/d/15pUcnQuSwIkiDzWkspKWpFGHrSqRfTY5/view)
