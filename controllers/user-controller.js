@@ -67,7 +67,7 @@ const userController = {
         // console.log(params);
         // res.json(params);  //sends params as response to debug and check that parameter names match
         User.findOneAndUpdate(
-            { _id: params.id }, 
+            { _id: params.UserId }, 
             { $push: { friends: params.id } },
             { new: true }
             )
@@ -95,8 +95,8 @@ const userController = {
 
     deleteFriend({ params }, res) {
         User.findOneAndUpdate(
-            { _id: params.userId },
-            { $pull: { friends: { userId: params.userId } } },
+            { _id: params.UserId },
+            { $pull: { friends: params.id } },
             { new: true }
           )
         .then(dbUserData => {

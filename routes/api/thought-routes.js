@@ -9,7 +9,7 @@ router
     
 router.route('/reactions/:userId/:thoughtId').put(addReaction);
 
-    router.route('reactions/:userId/:thoughtId/:reactionId').delete(removeReaction);
+    router.route('/reactions/:thoughtId/:reactionId').delete(removeReaction);
 
 
 module.exports = router;
